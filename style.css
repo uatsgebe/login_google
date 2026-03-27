@@ -1,0 +1,52 @@
+header {
+    height: 80px;
+    background-color: rgb(196, 196, 196);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+body {
+    background-color: white;
+    margin: 0px;
+    text-align: center;
+}
+
+.container {
+    border: 1px solid rgb(0, 0, 0);
+    text-align: center;
+    background-color: white;
+    margin: 100px auto;
+    width: 300px;
+    padding: 40px;
+    border-radius: 20px;
+}
+
+
+
+.imagem_google {
+    height: 50px;
+    width: 50px;
+    align-items: center;
+    margin: 20px;
+}
+
+.img_zap {
+    height: 15px;
+    width: 15px;
+}
+
+footer {
+    height: 80px;
+    background-color: rgb(196, 196, 196);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 350px;
+    padding: 300px;
+}
+
+.corpo {
+    background-color: red;
+    color: white;
+}
